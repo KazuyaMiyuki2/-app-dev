@@ -16,7 +16,10 @@ My first repository
 
 ### Poster
 
-![Weak Hero Poster](https://upload.wikimedia.org/wikipedia/en/3/3d/Weak_Hero_Class_1.jpg)
+
+<img width="146" height="203" alt="weak_hero" src="https://github.com/user-attachments/assets/2339849a-7cf3-4dc4-a4b3-e6d1dc41d08e" />
+
+
 
 ---
 
